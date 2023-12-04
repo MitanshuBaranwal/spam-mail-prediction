@@ -1,2 +1,2 @@
 # spam-mail-prediction
-This project predicts spam mails. 
+Code to predict spam mails.  
